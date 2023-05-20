@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/likelion-toyproject/static/css/main.cf5db89c.css",
-    "main.js": "/likelion-toyproject/static/js/main.e8f14050.js",
-    "index.html": "/likelion-toyproject/index.html",
-    "main.cf5db89c.css.map": "/likelion-toyproject/static/css/main.cf5db89c.css.map",
-    "main.e8f14050.js.map": "/likelion-toyproject/static/js/main.e8f14050.js.map"
+    "main.css": "/static/css/main.cf5db89c.css",
+    "main.js": "/static/js/main.5f191dfd.js",
+    "index.html": "/index.html",
+    "main.cf5db89c.css.map": "/static/css/main.cf5db89c.css.map",
+    "main.5f191dfd.js.map": "/static/js/main.5f191dfd.js.map"
   },
   "entrypoints": [
     "static/css/main.cf5db89c.css",
-    "static/js/main.e8f14050.js"
+    "static/js/main.5f191dfd.js"
   ]
 }
